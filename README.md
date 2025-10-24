@@ -24,6 +24,7 @@
 - 👨‍💻 Life Hack: Learn new tech and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+- <br>
 <a href="https://github.com/MayanthaS"><img src="https://komarev.com/ghpvc/?username=MayanthaS&style=flat-square&color=blue" alt=""/></a>
 </div>
 
