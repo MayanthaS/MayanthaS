@@ -6,6 +6,26 @@
 <!--
 **MayanthaS/MayanthaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://portfoliomayantha.netlify.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `FULL Stack & Devops`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
