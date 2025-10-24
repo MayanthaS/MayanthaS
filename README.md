@@ -8,8 +8,7 @@
 
  👨🏻‍💻 About Me:
 
-<img  src=".![Uploading image.png…]()
-" height="290px" align="right" />
+<img  src="./github readme.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://portfoliomayantha.netlify.app/)**
 
