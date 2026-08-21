@@ -6,16 +6,11 @@
 
 
 
-<img  src="./github readme.gif" height="290px" align="bottom" />
+<!-- <img  src="./github readme.gif" height="290px" align="bottom" /> -->
 
 # Hi, I'm Mayantha Sapumal 👋
 
 Software Engineering undergraduate (3rd year, Open University of Sri Lanka) with hands-on experience building full-stack web applications using **React, Node.js, TypeScript, Vue.js, and MySQL**. I'm currently looking for a **Software Engineering internship / junior developer role**.
-
-
-
-
-
 
 
 🌐 **Portfolio:** [portfoliomayantha.netlify.app](https://portfoliomayantha.netlify.app/)
