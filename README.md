@@ -23,7 +23,7 @@ Software Engineering undergraduate (3rd year, Open University of Sri Lanka) with
 
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
-| [Employee Management System](https://github.com/MayanthaS/Employee-Management-Systems) | Full-stack CRUD app for managing employee records, with form validation and optimized queries | MERN Stack | [link] |
+| [Employee Management System](https://github.com/MayanthaS/Employee-Management-Systems) | Full-stack CRUD app for managing employee records, with form validation and optimized queries | MERN Stack |[ [link] ](https://employee-management-systems-sk89.vercel.app/login) |
 | [Cosmetic E-Commerce App](https://github.com/MayanthaS/Comestic_Web) | Responsive e-commerce app with product catalog, cart, and database integration | React, Node.js, MySQL | [link] |
 | AI Image Generator | Generates images from user prompts via AI API integration | React, REST APIs | [link] |
 | Modern Dashboard App | Interactive analytics dashboard with data visualizations | React, Chart libraries | [link] |
