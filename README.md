@@ -6,7 +6,7 @@
 
 
 
-<img  src="./github readme.gif" height="290px" align="right" />
+<img  src="./github readme.gif" height="290px" align="bottom" />
 
 # Hi, I'm Mayantha Sapumal 👋
 
