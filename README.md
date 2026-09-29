@@ -14,7 +14,7 @@ Software Engineering undergraduate (3rd year, Open University of Sri Lanka) with
 
 
 🌐 **Portfolio:** [portfoliomayantha.netlify.app](https://portfoliomayantha.netlify.app/) <br>
-                                                                                                                                                                                                                  💼 **LinkedIn:** [linkedin.com/in/mayanthaskumarasinghe](https://linkedin.com/in/mayanthaskumarasinghe/)
+                                                                                                                                                                                                                  💼 **LinkedIn:** [linkedin.com/in/mayanthaskumarasinghe](https://linkedin.com/in/mayanthaskumarasinghe/)  <br>
 📧 **Email:** sapumalmayantha@gmail.com
 
 ---
