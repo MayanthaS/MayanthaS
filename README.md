@@ -30,7 +30,7 @@ Software Engineering undergraduate (3rd year, Open University of Sri Lanka) with
 | Smart City Web App | Multi-section responsive web app with modern UI patterns | Vue.js | [link] |
 | Traffic Signal Simulation | Java simulation of traffic flow using graph algorithms and queue management | Java, OOP, Algorithms | [repo] |
 
-*(Replace `[link]` with live deployment URLs once deployed — see notes below)*
+<!--*(Replace `[link]` with live deployment URLs once deployed — see notes below)*-->
 
 ---
 
